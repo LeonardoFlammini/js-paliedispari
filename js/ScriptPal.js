@@ -27,3 +27,4 @@ function isPal(word){
     return false;
   }
 }
+
