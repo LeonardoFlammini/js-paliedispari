@@ -32,3 +32,12 @@ Dichiariamo chi ha vinto.
 
 1. confronto le due stringhe se sono uguali è palindroma altrinmenti no
 
+**evenOdd**
+
+1. prendo ciò che mi serve dai prompt
+
+1. faccio una funzione per randomizzare un numero tra 1  a 5 da assegnare al pc
+
+1. sommo i due numeri
+
+1. faccio una funzione per sapere se è pari (return booleano)
