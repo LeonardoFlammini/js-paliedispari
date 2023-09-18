@@ -28,3 +28,5 @@ function isPal(word){
   }
 }
 
+
+//Usare .reverse per girare
